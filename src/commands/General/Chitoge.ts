@@ -12,7 +12,7 @@ export default class Command extends BaseCommand {
 			command: "chitoge",
 			description: "Displays the info",
 			category: "general",
-			usage: `${client.config.prefix}chitoge`,
+			usage: `${client.config.prefix}support`,
 			baseXp: 200,
 		});
 	}
